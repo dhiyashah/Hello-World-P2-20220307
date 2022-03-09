@@ -45,7 +45,13 @@ void mousePressed() {
 //What we will copy and paste from the Static Program 
 /*
  // Concatenation
-
+ 
+ //
+ 
+ 
+ 
+ //
 /*Note: the computer is adding ASCII Values
-Period has ASCII Value of 46
-So, int(one)+two+z = 1 + 1 + 46*/
+ Period has ASCII Value of 46
+ So, int(one)+two+z = 1 + 1 + 46
+ */
